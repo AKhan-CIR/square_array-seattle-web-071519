@@ -1,6 +1,6 @@
 
 def square_array(array)
   empty_arr = [] 
-  array.each {|num| empty_arr  << num * num}
+  array.each {|num| empty_arr << num * num}
   arr
 end
